@@ -44,4 +44,4 @@ The goal is to make it easier to spot patterns and trends in ransomware attacks,
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/emmanuellozano02/Healthcare-Ransomware-Pipeline.git
-   cd your-repo-name
+   cd Healthcare-Ransomware-Pipeline
