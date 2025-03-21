@@ -9,7 +9,7 @@ This project is about building a simple yet powerful data pipeline to help under
 - **Store the processed data** in a database (like SQLite or PostgreSQL).
 - **Create visual insights** through an easy-to-use dashboard (using Streamlit or Power BI).
 
-The goal is to make it easier to spot patterns and trends in ransomware attacks, so we can better protect healthcare systems.
+The goal is to make it easier to spot patterns and trends in ransomware attacks, so "we" can better protect healthcare systems.
 
 ---
 
