@@ -1,6 +1,6 @@
 # End-to-End Data Pipeline for Ransomware Trends in Healthcare
 
-## 💡 Objective
+## 💚 Objective
 This project is about building a simple yet powerful data pipeline to help understand ransomware trends, especially in healthcare. The pipeline will:
 
 - **Collect data** about ransomware attacks.
@@ -12,7 +12,7 @@ The goal is to make it easier to spot patterns and trends in ransomware attacks,
 
 ---
 
-## 🛠️ Tech Stack
+## 💚 Tech Stack
 
 | **Step**               | **Tools Used**                     |
 |-------------------------|------------------------------------|
@@ -25,7 +25,7 @@ The goal is to make it easier to spot patterns and trends in ransomware attacks,
 
 ---
 
-## � What It Does
+## 💚 What It Does
 
 ### Easy Data Handling
 - Takes in raw data, cleans it up, and stores it neatly.
