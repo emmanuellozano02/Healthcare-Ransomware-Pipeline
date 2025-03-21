@@ -31,9 +31,6 @@ The goal is to make it easier to spot patterns and trends in ransomware attacks,
 ### Easy Data Handling
 - Takes in raw data, cleans it up, and stores it neatly.
 
-### Interactive Dashboards
-- Lets you explore ransomware trends visually with tools like Streamlit or Power BI.
-
 ### Flexible Storage
 - Works with lightweight databases (SQLite) or more robust ones (PostgreSQL).
 
