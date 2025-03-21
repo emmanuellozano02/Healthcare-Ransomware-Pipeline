@@ -38,3 +38,10 @@ The goal is to make it easier to spot patterns and trends in ransomware attacks,
 
 ### Optional Automation
 - If you want to get fancy, you can use tools like Airflow or Prefect to automate the workflow.
+
+## 💚 Setup Instructions
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/emmanuellozano02/Healthcare-Ransomware-Pipeline.git
+   cd your-repo-name
