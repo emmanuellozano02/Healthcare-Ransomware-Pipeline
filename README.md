@@ -1,4 +1,5 @@
 # End-to-End Data Pipeline for Ransomware Trends in Healthcare
+Dataset: https://www.kaggle.com/datasets/rivalytics/healthcare-ransomware-dataset
 
 ## 💚 Objective
 This project is about building a simple yet powerful data pipeline to help understand ransomware trends, especially in healthcare. The pipeline will:
@@ -15,11 +16,11 @@ The goal is to make it easier to spot patterns and trends in ransomware attacks,
 ## 💚 Tech Stack
 
 | **Step**               | **Tools Used**                     |
-|-------------------------|------------------------------------|
+|-------------------------|-----------------------------------|
 | **Data Collection**     | Python + Pandas                   |
-| **Data Cleaning**       | Pandas / PySpark (for bigger datasets) |
+| **Data Cleaning**       | Pandas / PySpark                  |
 | **Data Storage**        | SQLite / PostgreSQL               |
-| **Workflow Automation** | Airflow or Prefect (optional)      |
+| **Workflow Automation** | Airflow                           |
 | **Visualization**       | Streamlit / Power BI              |
 | **Version Control**     | Git + GitHub + README             |
 
@@ -35,9 +36,6 @@ The goal is to make it easier to spot patterns and trends in ransomware attacks,
 
 ### Flexible Storage
 - Works with lightweight databases (SQLite) or more robust ones (PostgreSQL).
-
-### Optional Automation
-- If you want to get fancy, you can use tools like Airflow or Prefect to automate the workflow.
 
 ## 💚 Setup Instructions
 
