@@ -20,6 +20,8 @@ Data Storage	SQLite / PostgreSQL
 Workflow Automation	Airflow or Prefect (optional)
 Visualization	Streamlit / Power BI
 Version Control	Git + GitHub + README
+
+
 🚀 What It Does
 Easy Data Handling: Takes in raw data, cleans it up, and stores it neatly.
 
